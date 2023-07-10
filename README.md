@@ -9,3 +9,9 @@ Place a flag on the blocks that player thinks is a mine in order to prevent them
 
 - To place flag - Right Click
 - To click on box - Left Click
+
+MineSweeperv2.0 Coming Soon!
+  -  Hopeful Features
+     -  Smaller Squares
+     -  More Squares
+     -  Uncover mines at the end of the game (lose or win)
